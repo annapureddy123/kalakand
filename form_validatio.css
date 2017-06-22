@@ -1,0 +1,42 @@
+form{
+    padding:5px;
+    border-radius: 5px;
+    border:solid red;
+    width:50%;
+    
+}
+
+div{
+    padding:5px;
+}
+.name{
+    font-family:cursive;  
+}
+
+.box{
+    display:block;
+    margin:5px;
+    border color: blueviolet;
+    background-color:azure; 
+    width:30vw;
+}
+
+.box1{
+    margin:5px;
+    border color: blueviolet;
+    background-color:azure;
+    width:75px;
+    
+}
+
+.button{
+    background-color: aqua;
+    font-family: cursive;
+    margin-left:25px;
+}
+
+span{
+    color:red;
+    
+}
+
